@@ -2,7 +2,7 @@
 Little Lemon UI/UX for the Coursera course 'Principles of UX/UI Design'  
 
 Definition of the problem:
-Allowing the customer to book a table for the Little Lemon restaurant online. 
+The current website does not allow users to reserve a table online. We need to allow the customer to book a table for the Little Lemon restaurant online. 
 
 * Persona Figma file
 * Journey Map Figma file
